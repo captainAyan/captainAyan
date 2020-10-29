@@ -26,7 +26,7 @@
 
 ### 📞 Contact Me
 
-- Instagram - [@garden_with_ayan](https://github.com/captainAyan/Accounting)
+- Instagram - [@garden_with_ayan](https://instagram.com/garden_with_ayan)
 - Discord - [@captainayan#5716](https://discord.gg/users/captainayan#5716)
 - Mail - [Ayan Chakraborty](mailto:ayanchakraborty105@gmail.com)
 
