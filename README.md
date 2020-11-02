@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on [Accounting](https://github.com/captainAyan/Accounting)
 - 🌱 I’m currently learning Flutter & C++
 - 👯 I’m looking to collaborate on [Accounting](https://github.com/captainAyan/Accounting)
-- 📫 How to reach me: Send me a friend request on Discord
+- 📫 How to reach me: Send me a friend request on [Discord](https://discord.gg/users/captainayan#5716)
 - ⚡ Fun fact: I'm actually a Commerce graduate 👨‍🎓
 
 ### 🛠 Tech Stack
