@@ -16,13 +16,7 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | IntellijIdea | Git
 - 🖥 &nbsp; Figma | Photoshop 
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=captainAyan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayan's Github Stats">
-
-<!--
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=captainAyan&layout=compact&theme=radical&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
--->
+[![Ayan's github stats](https://github-readme-stats.vercel.app/api?username=captainayan&hide=contribs&count_private=true&show_icons=true&include_all_commits=true)]()
 
 ### 📞 Contact Me
 
