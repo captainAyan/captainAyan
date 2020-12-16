@@ -25,5 +25,6 @@
 - Mail - [Ayan Chakraborty](mailto:ayanchakraborty105@gmail.com)
 - Codewars - [@captainAyan](https://www.codewars.com/users/captainAyan)
 - Leetcode - [@captainAyan](https://leetcode.com/captainAyan/)
+- Sololearn - [@captainAyan](https://www.sololearn.com/Profile/6212313)
 
 ### 💗 From [captainAyan](https://github.com/captainAyan)
