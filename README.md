@@ -21,6 +21,7 @@
 ### 📞 Contact Me
 
 - Instagram - [@garden_with_ayan](https://instagram.com/garden_with_ayan)
+- Twitter - [@captainAyan101](https://twitter.com/captainayan101)
 - Discord - @captainayan#5716
 - Mail - [Ayan Chakraborty](mailto:ayanchakraborty105@gmail.com)
 - Codewars - [@captainAyan](https://www.codewars.com/users/captainAyan)
