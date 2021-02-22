@@ -22,10 +22,11 @@
 
 - Instagram - [@garden_with_ayan](https://instagram.com/garden_with_ayan)
 - Twitter - [@captainAyan101](https://twitter.com/captainayan101)
+- Linkedin - [@ayan-chakraborty-486269207](https://www.linkedin.com/in/ayan-chakraborty-486269207/)
 - Discord - @captainayan#5716
 - Mail - [Ayan Chakraborty](mailto:ayanchakraborty105@gmail.com)
 - Codewars - [@captainAyan](https://www.codewars.com/users/captainayan)
 - Leetcode - [@captainAyan](https://leetcode.com/captainAyan/)
 - Sololearn - [@captainAyan](https://www.sololearn.com/Profile/6212313)
 
-### 💗 From [captainAyan](https://github.com/captainAyan)
+### 💗 From [captainAyan](https://captainayan.github.io/)
