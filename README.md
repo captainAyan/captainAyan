@@ -2,9 +2,9 @@
 
 ### I'm Ayan from Calcutta, India:
 
-- 🔭 I'm currently working on [Accounting](https://github.com/captainAyan/Accounting)
+- 🔭 I'm currently working on [Account Lite 💡](https://github.com/captainAyan/accountlite)
 - 🌱 I’m currently learning Flutter & C++
-- 👯 I’m looking to collaborate on [Accounting](https://github.com/captainAyan/Accounting)
+- 👯 I’m looking to collaborate on [Account Lite 💡](https://github.com/captainAyan/accountlite)
 - 📫 How to reach me: Send me a friend request on Discord (@captainayan#5716)
 - ⚡ Fun fact: I'm actually a Commerce graduate 👨‍🎓
 
